@@ -6,4 +6,8 @@ public class LoginPage {
 	{
 		System.out.println("utillPage");
 	}
+	public void set()
+	{
+		System.out.println("set");
+	}
 }
